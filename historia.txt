@@ -5,3 +5,5 @@ el esutdiante de sistemas
 Agregando alguien al proyecto
 
 Master 1
+
+Master 2
